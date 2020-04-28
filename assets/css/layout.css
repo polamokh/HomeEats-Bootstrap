@@ -39,3 +39,13 @@
   background-size: cover;
   background-attachment: fixed;
 }
+
+#profile-avatar {
+  width: 50%;
+  height: auto;
+}
+
+.vl {
+  border-left: 6px solid silver;
+  height: 100%;
+}

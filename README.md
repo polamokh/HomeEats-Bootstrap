@@ -5,17 +5,17 @@ Responsive website that designed using Bootstrap for homemade food.
 - [X] Responsive website
 - [X] Layout
 - [ ] Nested Media objects with different alignments.
-- [ ] Button groups 
+- [X] Button groups 
 - [X] Input Groups
 - [X] Labels 
-- [ ] Alerts
+- [X] Alerts
 - [X] Jumbotron
 - [X] Cards 
 - [X] Navs 
 - [ ] Breadcrumb
 - [ ] Pagination/Pager
 - [ ] Progress bar 
-- [ ] Modals
+- [X] Modals
 - [ ] Accordion Collapse
 - [ ] Carousel
 - [X] Tooltips
