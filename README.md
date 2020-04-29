@@ -12,11 +12,11 @@ Responsive website that designed using Bootstrap for homemade food.
 - [X] Jumbotron
 - [X] Cards 
 - [X] Navs 
-- [ ] Breadcrumb
-- [ ] Pagination/Pager
+- [X] Breadcrumb
+- [X] Pagination/Pager
 - [ ] Progress bar 
 - [X] Modals
 - [ ] Accordion Collapse
 - [ ] Carousel
 - [X] Tooltips
-- [ ] Popover 
+- [X] Popover 
