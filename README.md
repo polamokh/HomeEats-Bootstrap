@@ -4,7 +4,7 @@ Responsive website that designed using Bootstrap for homemade food.
 ### Required components
 - [X] Responsive website
 - [X] Layout
-- [ ] Nested Media objects with different alignments.
+- [X] Nested Media objects with different alignments.
 - [X] Button groups 
 - [X] Input Groups
 - [X] Labels 
@@ -14,9 +14,9 @@ Responsive website that designed using Bootstrap for homemade food.
 - [X] Navs 
 - [X] Breadcrumb
 - [X] Pagination/Pager
-- [ ] Progress bar 
+- [X] Progress bar 
 - [X] Modals
-- [ ] Accordion Collapse
-- [ ] Carousel
+- [X] Accordion Collapse
+- [X] Carousel
 - [X] Tooltips
 - [X] Popover 

@@ -15,3 +15,5 @@ $(function () {
         trigger: 'foucs'
     });
 });
+
+$('.collapse').collapse();
