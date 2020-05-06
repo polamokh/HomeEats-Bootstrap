@@ -16,4 +16,5 @@ $(function () {
     });
 });
 
-$('.collapse').collapse();
+$('#collapseDescription').collapse();
+$('#collapseReviews').collapse();
